@@ -20,6 +20,9 @@
         <module>oder-service</module>
         <module>inventory-service</module>
         <module>discovery-server</module>
+        <module>api-gateway</module>
+        <module>api-gateway</module>
+        <module>api-gateway</module>
     </modules>
 
     <properties>
